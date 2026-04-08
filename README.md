@@ -13,8 +13,29 @@ Colección de 19 algoritmos básicos en Python desarrollados como parte del Tall
 ├── index.py      ← Menú principal (punto de entrada)
 ├── a1.py
 ├── a2.py
-├── ...
+├── a3.py
+├── a4.py
+├── a5.py
+├── a6.py
+├── a7.py
+├── a8.py
+├── a9.py
+├── a10.py
+├── a11.py
+├── a12.py
+├── a3.py
+├── a14.py
+├── a15.py
+├── a16.py
+├── a17.py
+├── a18.py
 ├── a19.py
+├── a20.py
+├── a21.py
+├── a22.py
+├── a23.py
+├── a24.py
+├── a25.py
 └── README.md
 ```
 
